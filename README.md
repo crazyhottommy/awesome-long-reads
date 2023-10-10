@@ -12,6 +12,20 @@ tools and notes  for long reads analysis
 Pipeline is Dorado, minimap2, sniffles2, deepvariant, you can do it under 1 hour now https://x.com/erictdawson/status/1710118874300219881?s=20
 https://developer.nvidia.com/blog/boosting-ultra-rapid-nanopore-sequencing-analysis-on-nvidia-dgx-a100/
 
+Dorado is a high-performance, easy-to-use, open source basecaller for Oxford Nanopore reads: https://github.com/nanoporetech/dorado
+
+pipeline: Mapping: Minimap2 or NGMLR
+SNVs: Clair3
+SVs: Sniffles2
+Phasing SNVs: WhatsHap
+Phasing SVs: Sniffles2
+Extend Phasing: PRINCESS-subtool
+Phased Methylation: Nanopolish + PRINCESS-subtool
+QC Statistics for each step
+
+https://github.com/MeHelmy/princess
+and https://github.com/epi2me-labs/wf-human-variation
+
 ###  DNA methylation.
 
 * Mehtylartist [Tools for parsing and plotting methylation patterns from nanopore data](https://github.com/adamewing/methylartist)
