@@ -7,12 +7,12 @@ tools and notes  for long reads analysis
 
 ### Variant
 
-[Accelerated identification of disease-causing variants with ultra-rapid nanopore genome sequencing](https://www.nature.com/articles/s41587-022-01221-5)
+* [Accelerated identification of disease-causing variants with ultra-rapid nanopore genome sequencing](https://www.nature.com/articles/s41587-022-01221-5)
 
-Pipeline is Dorado, minimap2, sniffles2, deepvariant, you can do it under 1 hour now https://x.com/erictdawson/status/1710118874300219881?s=20
+* Pipeline is Dorado, minimap2, sniffles2, deepvariant, you can do it under 1 hour now https://x.com/erictdawson/status/1710118874300219881?s=20
 https://developer.nvidia.com/blog/boosting-ultra-rapid-nanopore-sequencing-analysis-on-nvidia-dgx-a100/
 
-Dorado is a high-performance, easy-to-use, open source basecaller for Oxford Nanopore reads: https://github.com/nanoporetech/dorado
+* Dorado is a high-performance, easy-to-use, open source basecaller for Oxford Nanopore reads: https://github.com/nanoporetech/dorado
 
 pipeline: Mapping: Minimap2 or NGMLR
 SNVs: Clair3
@@ -25,6 +25,8 @@ QC Statistics for each step
 
 https://github.com/MeHelmy/princess
 and https://github.com/epi2me-labs/wf-human-variation
+
+* [Severus](https://github.com/KolmogorovLab/Severus) is a somatic structural variation (SV) caller for long reads (both PacBio and ONT).
 
 ###  DNA methylation.
 
