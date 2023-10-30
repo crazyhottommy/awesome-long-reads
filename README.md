@@ -1,6 +1,7 @@
 # awesome-long-reads
 tools and notes  for long reads analysis
 
+* [awesome-nanopore](https://github.com/GoekeLab/awesome-nanopore)
 * https://labs.epi2me.io/ oxford Nanopore dataset and tutorials
 * https://labs.epi2me.io/dataindex/
 
