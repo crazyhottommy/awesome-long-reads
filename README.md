@@ -32,3 +32,8 @@ and https://github.com/epi2me-labs/wf-human-variation
 ###  DNA methylation.
 
 * Mehtylartist [Tools for parsing and plotting methylation patterns from nanopore data](https://github.com/adamewing/methylartist)
+
+### RNA isoform
+
+* [ESPRESSO: Robust discovery and quantification of transcript isoforms from error-prone long-read RNA-seq data](https://www.science.org/doi/10.1126/sciadv.abq5072)
+  
