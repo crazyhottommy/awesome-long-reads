@@ -5,6 +5,7 @@ tools and notes  for long reads analysis
 * https://labs.epi2me.io/ oxford Nanopore dataset and tutorials
 * https://labs.epi2me.io/dataindex/
 
+[slow5curl](https://github.com/BonsonW/slow5curl)  is a command line tool and a library and for fetching reads from remote BLOW5 files, which is built on top of slow5lib and libcurl. 
 
 ### Variant
 
