@@ -37,4 +37,8 @@ and https://github.com/epi2me-labs/wf-human-variation
 ### RNA isoform
 
 * [ESPRESSO: Robust discovery and quantification of transcript isoforms from error-prone long-read RNA-seq data](https://www.science.org/doi/10.1126/sciadv.abq5072)
+
+### RNA modification
+
+* [Enhanced detection of RNA modifications and mappability with high-accuracy nanopore RNA basecalling models](https://www.biorxiv.org/content/10.1101/2023.11.28.568965v1)
   
