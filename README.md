@@ -30,6 +30,9 @@ and https://github.com/epi2me-labs/wf-human-variation
 
 * [Severus](https://github.com/KolmogorovLab/Severus) is a somatic structural variation (SV) caller for long reads (both PacBio and ONT).
 
+* CTAT-LR-fusion: accurate fusion transcript identification from long and short read isoform sequencing at bulk or single cell resolution https://www.biorxiv.org/content/10.1101/2024.02.24.581862v1.full
+* Detecting Somatic Mutations Without Matched Normal Samples Using Long Reads https://www.biorxiv.org/content/10.1101/2024.02.26.582089v1
+
 ###  DNA methylation.
 
 * Mehtylartist [Tools for parsing and plotting methylation patterns from nanopore data](https://github.com/adamewing/methylartist)
